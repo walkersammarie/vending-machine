@@ -1,8 +1,8 @@
 # vending-machine
 This was my first Java project after only 4 weeks of study. Use this link to get your own virtual snacks and drinks: 
-https://vending-machine-2000.glitch.me/
+https://vending-machine-2000.glitch.me/.
 
-The project requirements can be found in the file labeled "Module 1 Capstone - Vending Machine Terminal.pdf"
+The project requirements can be found in the file labeled "Module 1 Capstone - Vending Machine Terminal.pdf".
 
 Here is a broad overview:
 - the vending machine can be fed money
